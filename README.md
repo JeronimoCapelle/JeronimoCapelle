@@ -27,5 +27,5 @@ I am an Informatics Engineering student at Universidad Austral, currently attend
 *   Encountered a segmentation fault while compiling a C++ project with `-march=native`. Isolated the environment and submitted a reproducible bug report, which ultimately [served as a test case for a GCC AVX memory alignment patch](https://github.com/raysan5/raylib/issues/4630) in the `w64devkit` compiler toolchain.
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-capelle-774267368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-capelle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jero.capelle@gmail.com)
